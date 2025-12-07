@@ -1,0 +1,1122 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 04:45:19
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |7.4.33
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.33 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+REQUEST URL_________: "https://tongkhotivixiaomi.com"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+URL_NEW_____________: "https://tongkhotivixiaomi.com"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/20240723_tongkhotivixiaomi_[HASH]_20240723212733_archive.zip"
+ARCHIVE SIZE________: 233.95MB
+CREATED_____________: 2024-07-23 21:27:33
+WP VERSION__________: 6.6
+DUP VERSION_________: 4.5.9.1
+LICENSE_____________: unlicensed
+DB VERSION__________: 10.6.17
+DB FILE SIZE________: 12.64MB
+DB TABLES___________: 70
+DB ROWS_____________: 14738
+URL HOME____________: https://tongkhotivixiaomi.com
+URL CORE____________: https://tongkhotivixiaomi.com
+URL CONTENT_________: https://tongkhotivixiaomi.com/wp-content
+URL UPLOAD__________: https://tongkhotivixiaomi.com/wp-content/uploads
+URL PLUGINS_________: https://tongkhotivixiaomi.com/wp-content/plugins
+URL MU PLUGINS______: https://tongkhotivixiaomi.com/wp-content/mu-plugins
+URL THEMES__________: https://tongkhotivixiaomi.com/wp-content/themes
+PATH HOME___________: /home/buyitvn/tongkhotivixiaomi.com
+PATH ABS____________: /home/buyitvn/tongkhotivixiaomi.com
+PATH WPCONFIG_______: /home/buyitvn/tongkhotivixiaomi.com
+PATH WPCONTENT______: /home/buyitvn/tongkhotivixiaomi.com/wp-content
+PATH UPLOADS________: /home/buyitvn/tongkhotivixiaomi.com/wp-content/uploads
+PATH PLUGINS________: /home/buyitvn/tongkhotivixiaomi.com/wp-content/plugins
+PATH MUPLUGINS______: /home/buyitvn/tongkhotivixiaomi.com/wp-content/mu-plugins
+PATH THEMES_________: /home/buyitvn/tongkhotivixiaomi.com/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "tongkhotivixiaomi.com/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-custom-fields/acf.php                    ][ON:true ]  Advanced Custom Fields
+PLUGIN [SLUG:tinymce-advanced/tinymce-advanced.php             ][ON:true ]  Advanced Editor Tools
+PLUGIN [SLUG:woo-bulk-editor/index.php                         ][ON:false]  BEAR – Bulk Editor and Products Manager Professional for WooCommerce
+PLUGIN [SLUG:button-contact-vr/button-contact-vr.php           ][ON:true ]  Button contact VR
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:contact-form-7-dynamic-text-extension/contact-form-7-dynamic-text-extension.php][ON:false]  Contact Form 7 - Dynamic Text Extension
+PLUGIN [SLUG:devvn-quick-buy/devvn-quick-buy.php               ][ON:true ]  DevVN - Quick Buy - Mua Hàng Nhanh
+PLUGIN [SLUG:devvn-woocommerce-reviews/devvn-woocommerce-reviews.php][ON:true ]  DevVN Woocommerce Reviews
+PLUGIN [SLUG:download-plugin/download-plugin.php               ][ON:true ]  Download Plugin
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:imagify/imagify.php                               ][ON:true ]  Imagify
+PLUGIN [SLUG:litespeed-cache/litespeed-cache.php               ][ON:true ]  LiteSpeed Cache
+PLUGIN [SLUG:popup-builder/popup-builder.php                   ][ON:true ]  Popup Builder
+PLUGIN [SLUG:qqworld-auto-save-images/qqworld-auto-save-images.php][ON:false]  QQWorld Auto Save Images
+PLUGIN [SLUG:seo-by-rank-math/rank-math.php                    ][ON:true ]  Rank Math SEO
+PLUGIN [SLUG:seo-by-rank-math-pro/rank-math-pro.php            ][ON:true ]  Rank Math SEO PRO
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:insert-headers-and-footers/ihaf.php               ][ON:true ]  WPCode Lite
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:true ]  WP Mail SMTP
+
+********************************************************************************
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.03297]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.02731]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: soft warning
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+--------------------------------------
+LOG-TIME[DELTA:   0.00665]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00179]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00027]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00728]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00172]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00131]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00050]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00045]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/database/class.db.php:678] MSG: SELECT command denied to user 'iyfrpqowhosting_tivi'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'iyfrpqowhosting_tivi' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/validation/class.validation.database.service.php[984]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/validation/class.validation.manager.php[239]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/classes/validation/class.validation.manager.php[212]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00989]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00057]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00088]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00053]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00036]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 04:45:44
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Tổng kho Tivi Xiaomi"
+HOME URL NEW________: "https://tongkhotivixiaomi.com"
+SITE URL NEW________: "https://tongkhotivixiaomi.com"
+CONTENT URL NEW_____: "https://tongkhotivixiaomi.com/wp-content"
+UPLOAD URL NEW______: "https://tongkhotivixiaomi.com/wp-content/uploads"
+PLUGINS URL NEW_____: "https://tongkhotivixiaomi.com/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://tongkhotivixiaomi.com/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+SITE PATH NEW_______: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+CONTENT PATH NEW____: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content"
+UPLOAD PATH NEW_____: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer"
+	FILE: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/20240723_tongkhotivixiaomi_[HASH]_20240723212733_installer-backup.php"
+	FILE: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/20240723_tongkhotivixiaomi_[HASH]_20240723212733_archive.zip"
+	FILE: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/installer.php"
+	FILE: "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer-bootlog__b7e149c-23212733.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20240723_tongkhotivixiaomi_[HASH]_20240723212733_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+RESET CONFIG FILES: I'M GOING TO MOVE CONFIG FILE ".htaccess" IN ORIGINAL FOLDER
+	CONFIG FILE HAS BEEN RESET
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0084 sec. - Files processed: 16,595 of 21,613
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 16595
+--------------------------------------
+PATHS MAPPING : "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 22425
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 04:45:57 - RUNTIME: 13.2287 sec. - Files processed: 21,613 of 21,613
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wpdd_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 04:45:57
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wpdd_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "latin1"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wpdd_actionscheduler_actions"____________________[ROWS:     240] [EXTRACT|REPLACE] [INST NAME: wpdd_actionscheduler_actions]
+TABLE "wpdd_actionscheduler_claims"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_actionscheduler_claims]
+TABLE "wpdd_actionscheduler_groups"_____________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wpdd_actionscheduler_groups]
+TABLE "wpdd_actionscheduler_logs"_______________________[ROWS:     712] [EXTRACT|REPLACE] [INST NAME: wpdd_actionscheduler_logs]
+TABLE "wpdd_commentmeta"________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpdd_commentmeta]
+TABLE "wpdd_comments"___________________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: wpdd_comments]
+TABLE "wpdd_duplicator_pro_entities"____________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpdd_duplicator_pro_entities]
+TABLE "wpdd_duplicator_pro_packages"____________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpdd_duplicator_pro_packages]
+TABLE "wpdd_imagify_files"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_imagify_files]
+TABLE "wpdd_imagify_folders"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_imagify_folders]
+TABLE "wpdd_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_links]
+TABLE "wpdd_litespeed_url"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_litespeed_url]
+TABLE "wpdd_litespeed_url_file"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_litespeed_url_file]
+TABLE "wpdd_options"____________________________________[ROWS:    1521] [EXTRACT|REPLACE] [INST NAME: wpdd_options]
+TABLE "wpdd_postmeta"___________________________________[ROWS:    7544] [EXTRACT|REPLACE] [INST NAME: wpdd_postmeta]
+TABLE "wpdd_posts"______________________________________[ROWS:     880] [EXTRACT|REPLACE] [INST NAME: wpdd_posts]
+TABLE "wpdd_rank_math_analytics_gsc"____________________[ROWS:    1835] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_analytics_gsc]
+TABLE "wpdd_rank_math_analytics_inspections"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_analytics_inspections]
+TABLE "wpdd_rank_math_analytics_keyword_manager"________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_analytics_keyword_manager]
+TABLE "wpdd_rank_math_analytics_objects"________________[ROWS:     107] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_analytics_objects]
+TABLE "wpdd_rank_math_internal_links"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_internal_links]
+TABLE "wpdd_rank_math_internal_meta"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_internal_meta]
+TABLE "wpdd_rank_math_redirections"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_redirections]
+TABLE "wpdd_rank_math_redirections_cache"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_rank_math_redirections_cache]
+TABLE "wpdd_sgpb_subscribers"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_sgpb_subscribers]
+TABLE "wpdd_sgpb_subscription_error_log"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_sgpb_subscription_error_log]
+TABLE "wpdd_termmeta"___________________________________[ROWS:      75] [EXTRACT|REPLACE] [INST NAME: wpdd_termmeta]
+TABLE "wpdd_terms"______________________________________[ROWS:     111] [EXTRACT|REPLACE] [INST NAME: wpdd_terms]
+TABLE "wpdd_term_relationships"_________________________[ROWS:     524] [EXTRACT|REPLACE] [INST NAME: wpdd_term_relationships]
+TABLE "wpdd_term_taxonomy"______________________________[ROWS:     111] [EXTRACT|REPLACE] [INST NAME: wpdd_term_taxonomy]
+TABLE "wpdd_usermeta"___________________________________[ROWS:     152] [EXTRACT|REPLACE] [INST NAME: wpdd_usermeta]
+TABLE "wpdd_users"______________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpdd_users]
+TABLE "wpdd_wc_admin_notes"_____________________________[ROWS:      22] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_admin_notes]
+TABLE "wpdd_wc_admin_note_actions"______________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_admin_note_actions]
+TABLE "wpdd_wc_category_lookup"_________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_category_lookup]
+TABLE "wpdd_wc_customer_lookup"_________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_customer_lookup]
+TABLE "wpdd_wc_download_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_download_log]
+TABLE "wpdd_wc_orders"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_orders]
+TABLE "wpdd_wc_orders_meta"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_orders_meta]
+TABLE "wpdd_wc_order_addresses"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_addresses]
+TABLE "wpdd_wc_order_coupon_lookup"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_coupon_lookup]
+TABLE "wpdd_wc_order_operational_data"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_operational_data]
+TABLE "wpdd_wc_order_product_lookup"____________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_product_lookup]
+TABLE "wpdd_wc_order_stats"_____________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_stats]
+TABLE "wpdd_wc_order_tax_lookup"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_order_tax_lookup]
+TABLE "wpdd_wc_product_attributes_lookup"_______________[ROWS:     148] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_product_attributes_lookup]
+TABLE "wpdd_wc_product_download_directories"____________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_product_download_directories]
+TABLE "wpdd_wc_product_meta_lookup"_____________________[ROWS:     182] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_product_meta_lookup]
+TABLE "wpdd_wc_rate_limits"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_rate_limits]
+TABLE "wpdd_wc_reserved_stock"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_reserved_stock]
+TABLE "wpdd_wc_tax_rate_classes"________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_tax_rate_classes]
+TABLE "wpdd_wc_webhooks"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wc_webhooks]
+TABLE "wpdd_woobe_history"______________________________[ROWS:     227] [EXTRACT|REPLACE] [INST NAME: wpdd_woobe_history]
+TABLE "wpdd_woobe_history_bulk"_________________________[ROWS:      18] [EXTRACT|REPLACE] [INST NAME: wpdd_woobe_history_bulk]
+TABLE "wpdd_woocommerce_api_keys"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_api_keys]
+TABLE "wpdd_woocommerce_attribute_taxonomies"___________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_attribute_taxonomies]
+TABLE "wpdd_woocommerce_downloadable_product_permissions"[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_downloadable_product_permissions]
+TABLE "wpdd_woocommerce_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_log]
+TABLE "wpdd_woocommerce_order_itemmeta"_________________[ROWS:     117] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_order_itemmeta]
+TABLE "wpdd_woocommerce_order_items"____________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_order_items]
+TABLE "wpdd_woocommerce_payment_tokenmeta"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_payment_tokenmeta]
+TABLE "wpdd_woocommerce_payment_tokens"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_payment_tokens]
+TABLE "wpdd_woocommerce_sessions"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_sessions]
+TABLE "wpdd_woocommerce_shipping_zones"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_shipping_zones]
+TABLE "wpdd_woocommerce_shipping_zone_locations"________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_shipping_zone_locations]
+TABLE "wpdd_woocommerce_shipping_zone_methods"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_shipping_zone_methods]
+TABLE "wpdd_woocommerce_tax_rates"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_tax_rates]
+TABLE "wpdd_woocommerce_tax_rate_locations"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_woocommerce_tax_rate_locations]
+TABLE "wpdd_wpmailsmtp_debug_events"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpdd_wpmailsmtp_debug_events]
+TABLE "wpdd_wpmailsmtp_tasks_meta"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpdd_wpmailsmtp_tasks_meta]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.17 -- Build Server: 10.6.17
+FILE SIZE:	dup-database__[HASH].sql (4.36MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`iyfrpqowhosting_tivi`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	138
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wpdd_actionscheduler_actions"____________________[ROWS:   240]
+TABLE "wpdd_actionscheduler_claims"_____________________[ROWS:     0]
+TABLE "wpdd_actionscheduler_groups"_____________________[ROWS:     9]
+TABLE "wpdd_actionscheduler_logs"_______________________[ROWS:   712]
+TABLE "wpdd_commentmeta"________________________________[ROWS:     2]
+TABLE "wpdd_comments"___________________________________[ROWS:    14]
+TABLE "wpdd_duplicator_pro_entities"____________________[ROWS:     5]
+TABLE "wpdd_duplicator_pro_packages"____________________[ROWS:     3]
+TABLE "wpdd_imagify_files"______________________________[ROWS:     0]
+TABLE "wpdd_imagify_folders"____________________________[ROWS:     0]
+TABLE "wpdd_links"______________________________________[ROWS:     0]
+TABLE "wpdd_litespeed_url"______________________________[ROWS:     0]
+TABLE "wpdd_litespeed_url_file"_________________________[ROWS:     0]
+TABLE "wpdd_options"____________________________________[ROWS:  1521]
+TABLE "wpdd_postmeta"___________________________________[ROWS:  7544]
+TABLE "wpdd_posts"______________________________________[ROWS:   880]
+TABLE "wpdd_rank_math_analytics_gsc"____________________[ROWS:  1835]
+TABLE "wpdd_rank_math_analytics_inspections"____________[ROWS:     0]
+TABLE "wpdd_rank_math_analytics_keyword_manager"________[ROWS:     0]
+TABLE "wpdd_rank_math_analytics_objects"________________[ROWS:   107]
+TABLE "wpdd_rank_math_internal_links"___________________[ROWS:     0]
+TABLE "wpdd_rank_math_internal_meta"____________________[ROWS:     0]
+TABLE "wpdd_rank_math_redirections"_____________________[ROWS:     0]
+TABLE "wpdd_rank_math_redirections_cache"_______________[ROWS:     0]
+TABLE "wpdd_sgpb_subscribers"___________________________[ROWS:     0]
+TABLE "wpdd_sgpb_subscription_error_log"________________[ROWS:     0]
+TABLE "wpdd_term_relationships"_________________________[ROWS:   524]
+TABLE "wpdd_term_taxonomy"______________________________[ROWS:   111]
+TABLE "wpdd_termmeta"___________________________________[ROWS:    75]
+TABLE "wpdd_terms"______________________________________[ROWS:   111]
+TABLE "wpdd_usermeta"___________________________________[ROWS:   152]
+TABLE "wpdd_users"______________________________________[ROWS:     3]
+TABLE "wpdd_wc_admin_note_actions"______________________[ROWS:    24]
+TABLE "wpdd_wc_admin_notes"_____________________________[ROWS:    22]
+TABLE "wpdd_wc_category_lookup"_________________________[ROWS:     5]
+TABLE "wpdd_wc_customer_lookup"_________________________[ROWS:    12]
+TABLE "wpdd_wc_download_log"____________________________[ROWS:     0]
+TABLE "wpdd_wc_order_addresses"_________________________[ROWS:     0]
+TABLE "wpdd_wc_order_coupon_lookup"_____________________[ROWS:     0]
+TABLE "wpdd_wc_order_operational_data"__________________[ROWS:     0]
+TABLE "wpdd_wc_order_product_lookup"____________________[ROWS:    13]
+TABLE "wpdd_wc_order_stats"_____________________________[ROWS:    13]
+TABLE "wpdd_wc_order_tax_lookup"________________________[ROWS:     0]
+TABLE "wpdd_wc_orders"__________________________________[ROWS:     0]
+TABLE "wpdd_wc_orders_meta"_____________________________[ROWS:     0]
+TABLE "wpdd_wc_product_attributes_lookup"_______________[ROWS:   148]
+TABLE "wpdd_wc_product_download_directories"____________[ROWS:     2]
+TABLE "wpdd_wc_product_meta_lookup"_____________________[ROWS:   182]
+TABLE "wpdd_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "wpdd_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "wpdd_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "wpdd_wc_webhooks"________________________________[ROWS:     0]
+TABLE "wpdd_woobe_history"______________________________[ROWS:   227]
+TABLE "wpdd_woobe_history_bulk"_________________________[ROWS:    18]
+TABLE "wpdd_woocommerce_api_keys"_______________________[ROWS:     0]
+TABLE "wpdd_woocommerce_attribute_taxonomies"___________[ROWS:     5]
+TABLE "wpdd_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "wpdd_woocommerce_log"____________________________[ROWS:     0]
+TABLE "wpdd_woocommerce_order_itemmeta"_________________[ROWS:   117]
+TABLE "wpdd_woocommerce_order_items"____________________[ROWS:    13]
+TABLE "wpdd_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "wpdd_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "wpdd_woocommerce_sessions"_______________________[ROWS:     2]
+TABLE "wpdd_woocommerce_shipping_zone_locations"________[ROWS:     0]
+TABLE "wpdd_woocommerce_shipping_zone_methods"__________[ROWS:     0]
+TABLE "wpdd_woocommerce_shipping_zones"_________________[ROWS:     0]
+TABLE "wpdd_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "wpdd_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "wpdd_wpmailsmtp_debug_events"____________________[ROWS:     0]
+TABLE "wpdd_wpmailsmtp_tasks_meta"______________________[ROWS:     1]
+
+INSERT DATA RUNTIME: 0.6024 sec.
+STEP-2 COMPLETE @ 04:45:58 - RUNTIME: 0.6024 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/buyitvn/tongkhotivixiaomi.com REPLACE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 04:45:58
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"latin1"
+CHARSET CLIENT:	"latin1"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wpdd_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:   737]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     3]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wpdd_actionscheduler_actions"____________________[ROWS:   240][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wpdd_actionscheduler_claims"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_actionscheduler_groups"_____________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wpdd_actionscheduler_logs"_______________________[ROWS:   712][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wpdd_commentmeta"________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_commentmeta][0]
+
+EVALUATE TABLE: "wpdd_comments"___________________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_comments][0]
+
+EVALUATE TABLE: "wpdd_duplicator_pro_entities"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wpdd_duplicator_pro_packages"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_imagify_files"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_imagify_folders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_litespeed_url"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_litespeed_url_file"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_options"____________________________________[ROWS:   784][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_options][0]
+
+EVALUATE TABLE: "wpdd_postmeta"___________________________________[ROWS:  7544][PG:   8][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_postmeta][7]
+
+EVALUATE TABLE: "wpdd_posts"______________________________________[ROWS:   880][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_posts][0]
+
+EVALUATE TABLE: "wpdd_rank_math_analytics_gsc"____________________[ROWS:  1835][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_rank_math_analytics_gsc][0]
+	CHUNK ACTION: CURRENT [search_replace][wpdd_rank_math_analytics_gsc][1]
+
+EVALUATE TABLE: "wpdd_rank_math_analytics_inspections"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_rank_math_analytics_keyword_manager"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_rank_math_analytics_objects"________________[ROWS:   107][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_rank_math_analytics_objects][0]
+
+EVALUATE TABLE: "wpdd_rank_math_internal_links"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_rank_math_internal_meta"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_rank_math_redirections"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_rank_math_redirections_cache"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_sgpb_subscribers"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_sgpb_subscription_error_log"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_termmeta"___________________________________[ROWS:    75][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_termmeta][0]
+
+EVALUATE TABLE: "wpdd_terms"______________________________________[ROWS:   111][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_terms][0]
+
+EVALUATE TABLE: "wpdd_term_relationships"_________________________[ROWS:   524][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_term_taxonomy"______________________________[ROWS:   111][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_term_taxonomy][0]
+
+EVALUATE TABLE: "wpdd_usermeta"___________________________________[ROWS:   152][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_usermeta][0]
+
+EVALUATE TABLE: "wpdd_users"______________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_users][0]
+
+EVALUATE TABLE: "wpdd_wc_admin_notes"_____________________________[ROWS:    22][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_admin_notes][0]
+
+EVALUATE TABLE: "wpdd_wc_admin_note_actions"______________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wpdd_wc_category_lookup"_________________________[ROWS:     5][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_customer_lookup"_________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_customer_lookup][0]
+
+EVALUATE TABLE: "wpdd_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_orders"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_orders_meta"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_order_addresses"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_order_coupon_lookup"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_order_operational_data"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_order_product_lookup"____________________[ROWS:    13][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_order_stats"_____________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_order_stats][0]
+
+EVALUATE TABLE: "wpdd_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_product_attributes_lookup"_______________[ROWS:   148][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_product_attributes_lookup][0]
+
+EVALUATE TABLE: "wpdd_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_product_download_directories][0]
+
+EVALUATE TABLE: "wpdd_wc_product_meta_lookup"_____________________[ROWS:   182][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wpdd_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wpdd_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woobe_history"______________________________[ROWS:   227][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woobe_history][0]
+
+EVALUATE TABLE: "wpdd_woobe_history_bulk"_________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woobe_history_bulk][0]
+
+EVALUATE TABLE: "wpdd_woocommerce_api_keys"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_attribute_taxonomies"___________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "wpdd_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_order_itemmeta"_________________[ROWS:   117][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woocommerce_order_itemmeta][0]
+
+EVALUATE TABLE: "wpdd_woocommerce_order_items"____________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woocommerce_order_items][0]
+
+EVALUATE TABLE: "wpdd_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_sessions"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wpdd_woocommerce_shipping_zones"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_shipping_zone_locations"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_shipping_zone_methods"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wpmailsmtp_debug_events"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpdd_wpmailsmtp_tasks_meta"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/buyitvn/tongkhotivixiaomi.com" =============> "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+	CHUNK ACTION: CURRENT [search_replace][wpdd_wpmailsmtp_tasks_meta][0]
+--------------------------------------
+SCANNED:	Tables:70 	|	 Rows:13372 	|	 Cells:85929 
+UPDATED:	Tables:1 	|	 Rows:3 	|	 Cells:3 
+ERRORS:		0 
+RUNTIME:	0.336300 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-config.php
+New .htaccess file created:/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""iyfrpqowhosting_tivi""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "latin1"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE wpdd_options
+UPDATE OPTION siteurl ON TABLE wpdd_options
+UPDATE OPTION duplicator_pro_exe_safe_mode ON TABLE wpdd_options
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 0 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:45:58 - RUNTIME: 0.4737 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/index.php
+E_NOTICE Undefined variable: thumbnail_size
+	FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome-child/functions.php[254]
+	--- TRACE ---
+	FUNCTION: title_with_cat_shortcode      FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[221]
+	FUNCTION: ux_col                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[79]
+	FUNCTION: ux_row                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/plugin.php[205]
+	FUNCTION: apply_filters                 FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/post-template.php[256]
+	FUNCTION: the_content                   FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/page-blank.php[17]
+	FUNCTION: include                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/wp_test_script_b7e149c-23212733.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined variable: thumbnail_size
+	FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome-child/functions.php[254]
+	--- TRACE ---
+	FUNCTION: title_with_cat_shortcode      FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[221]
+	FUNCTION: ux_col                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[79]
+	FUNCTION: ux_row                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/plugin.php[205]
+	FUNCTION: apply_filters                 FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/post-template.php[256]
+	FUNCTION: the_content                   FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/page-blank.php[17]
+	FUNCTION: include                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/wp_test_script_b7e149c-23212733.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined variable: thumbnail_size
+	FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome-child/functions.php[254]
+	--- TRACE ---
+	FUNCTION: title_with_cat_shortcode      FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[221]
+	FUNCTION: ux_col                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/inc/shortcodes/row.php[79]
+	FUNCTION: ux_row                        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[434]
+	FUNCTION: do_shortcode_tag              FILE: [-1]
+	FUNCTION: preg_replace_callback         FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/shortcodes.php[273]
+	FUNCTION: do_shortcode                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/plugin.php[205]
+	FUNCTION: apply_filters                 FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/post-template.php[256]
+	FUNCTION: the_content                   FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/themes/flatsome/page-blank.php[17]
+	FUNCTION: include                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/wp-content/wp_test_script_b7e149c-23212733.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/home/iyfrpqowhosting/domains/tongkhotivixiaomi.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.02335]  MESSAGE:END RENDER PAGE

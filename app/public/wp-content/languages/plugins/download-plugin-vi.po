@@ -1,0 +1,54 @@
+# Translation of Plugins - Download Plugin - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Download Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-12 11:34:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Download Plugin - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#: download-plugin.php
+msgid "https://profiles.wordpress.org/metagauss/"
+msgstr "https://profiles.wordpress.org/metagauss/"
+
+#. Plugin URI of the plugin
+#: download-plugin.php
+msgid "http://metagauss.com"
+msgstr "http://metagauss.com"
+
+#. Description of the plugin
+#: download-plugin.php
+msgid "Download any plugin from your wordpress admin panel's plugins page by just one click!"
+msgstr "Tải bất kỳ plugin nào từ trang quản lý plugin với chỉ một click!"
+
+#. Plugin Name of the plugin
+#: download-plugin.php app/Plugins/templates/dpwap_plugin_info.php:3
+msgid "Download Plugin"
+msgstr "Download Plugin"
+
+#: app/Main.php:54 app/Plugins/Base.php:145
+#: app/Plugins/templates/dpwap_plugin_info.php:13 app/Themes/Base.php:24
+#: app/Themes/templates/dpwap_theme_info.php:12
+msgid "Download"
+msgstr "Tải về captcha"
+
+#: app/Plugins/Dpwapuploader.php:259
+msgid "Maximum upload file size: %d%s."
+msgstr "Kích thước tải lên tối đa: %d%s."
+
+#: app/Plugins/templates/multiple_upload_plugin.php:37
+msgid "Install Now"
+msgstr "Cài đặt ngay"
+
+#: app/Plugins/templates/multiple_upload_plugin.php:29
+msgid "You can select and upload multiple Plugins in .zip format"
+msgstr "Bạn có thể chọn tải tải lên nhiều plugin với định dạng .zip"
+
+#: app/Plugins/templates/activate-status.php:7
+msgid "Activation Status"
+msgstr "Trạng thái kích hoạt"

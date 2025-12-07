@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'avantgarde';
+					src: url('/webkhach/dogo/wp-content/uploads/useanyfont/200413024835Avantgarde.woff2') format('woff2'),
+						url('/webkhach/dogo/wp-content/uploads/useanyfont/200413024835Avantgarde.woff') format('woff');
+					font-display: auto;
+				}
+
+				.avantgarde{font-family: 'avantgarde' !important;}
+
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, #menu-menu-chinh li a, #menu-menu-chinh li span, #menu-menu-top li a, #menu-menu-top li span{
+					font-family: 'avantgarde' !important;
+				}
+		

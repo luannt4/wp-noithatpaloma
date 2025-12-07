@@ -1,0 +1,15 @@
+table.wp-list-table .column-taxonomy-product_brand{}
+table.wp-list-table th.column-price {
+    width: 13ch;
+}
+table.wp-list-table .column-price {
+    .amount {
+        font-weight: bold;
+    }
+}
+table.wp-list-table th.column-sku {
+    width: 7%;
+}
+table.wp-list-table th.column-product_tag{
+    width: 7% !important;
+}
