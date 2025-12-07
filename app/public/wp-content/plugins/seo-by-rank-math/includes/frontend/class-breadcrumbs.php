@@ -120,8 +120,8 @@ class Breadcrumbs {
 			wp_parse_args(
 				$args,
 				[
-					'separator'   => '<span class="divider"><i class="fa fa-angle-right" aria-hidden="true"></i></span>',
-					'wrap_before' => '<nav aria-label="breadcrumbs" class="rank-math-breadcrumb breadcrumbs "><p>',
+					'separator'   => $this->settings['separator'],
+					'wrap_before' => '<nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p>',
 					'wrap_after'  => '</p></nav>',
 					'before'      => '',
 					'after'       => '',

@@ -4423,3 +4423,471 @@ Stack trace:
 [06-Dec-2025 23:48:36 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
 [06-Dec-2025 23:48:39 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
 [06-Dec-2025 23:48:39 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 00:26:55 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:26:55 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:26:55 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:26:55 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:13 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:13 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:13 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:13 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:29 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:29 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:29 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:27:29 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 00:28:09 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 00:28:09 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 00:28:11 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 00:28:11 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 00:28:37 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 00:28:37 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 00:28:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 00:28:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 00:28:47 UTC] WordPress database error Table 'local.wp_cff_feeds' doesn't exist for query SELECT COUNT(*) FROM wp_cff_feeds made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, CustomFacebookFeed\Custom_Facebook_Feed->init, CustomFacebookFeed\Admin\CFF_Callout->__construct, CustomFacebookFeed\Admin\CFF_Callout::get_callout_plugins_list, CustomFacebookFeed\Admin\CFF_Callout::feeds_number
+[07-Dec-2025 00:28:47 UTC] WordPress database error Table 'local.wp_cff_feeds' doesn't exist for query SELECT COUNT(*) FROM wp_cff_feeds made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, CustomFacebookFeed\Custom_Facebook_Feed->init, CustomFacebookFeed\Admin\CFF_Callout->__construct, CustomFacebookFeed\Admin\CFF_Callout::should_show_callout, CustomFacebookFeed\Admin\CFF_Callout::get_callout_plugins_list, CustomFacebookFeed\Admin\CFF_Callout::feeds_number
+[07-Dec-2025 00:37:48 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 00:37:48 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 00:37:52 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 00:37:52 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 00:39:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 00:39:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 00:39:56 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 00:39:56 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 282
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 283
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "post_author" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 295
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 336
+[07-Dec-2025 00:40:11 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 337
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 282
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 283
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "post_author" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 295
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 336
+[07-Dec-2025 01:38:41 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 337
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 282
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 283
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 292
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 293
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "post_author" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 295
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 336
+[07-Dec-2025 01:52:18 UTC] PHP Warning:  Attempt to read property "name" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Vue.php on line 337
+[07-Dec-2025 07:22:11 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 07:22:11 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 07:22:13 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 07:22:13 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 07:22:22 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 07:22:22 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 07:22:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 07:22:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 07:47:55 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 07:48:22 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 07:48:42 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 07:49:46 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 07:49:57 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 07:50:06 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 08:22:15 UTC] PHP Warning:  Undefined variable $string in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\page-blank-sub-nav-vertical.php on line 28
+[07-Dec-2025 08:44:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\src\Transformers\ArrayToString.php on line 162
+[07-Dec-2025 09:46:42 UTC] PHP Warning:  Undefined array key "template" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php on line 104
+[07-Dec-2025 10:14:51 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\admin\class-post-columns.php on line 174
+[07-Dec-2025 14:15:16 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:15:16 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:15:18 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:15:18 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:15:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:15:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:15:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:15:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:19:12 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:19:12 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:19:15 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:19:15 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:19:20 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:19:20 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:19:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:19:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:20:46 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:20:46 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:20:49 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:20:49 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:20:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:20:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:20:56 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:20:56 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:22:05 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:22:05 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:22:08 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:22:08 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:22:12 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:22:12 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:22:15 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:22:15 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:22:47 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:22:47 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:22:51 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:22:51 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:26:03 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:26:03 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:26:06 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:26:06 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:26:20 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:26:20 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:26:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:26:23 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:27:28 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:27:28 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:27:30 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:27:30 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:27:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:27:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:27:42 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:27:42 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:29:11 UTC] PHP Warning:  dir(C:/Users/thanh/Local Sites/noithatpaloma/app/public/wp-content/upgrade/woocommerce.10.3.6/woocommerce/src/RestApi/Routes/V4/OrderNotes/Schema/): The system cannot find the path specifi (code: 3) in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[07-Dec-2025 14:29:11 UTC] PHP Warning:  dir(C:/Users/thanh/Local Sites/noithatpaloma/app/public/wp-content/upgrade/woocommerce.10.3.6/woocommerce/src/RestApi/Routes/V4/OrderNotes/Schema/): Failed to open directory: No error in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 636
+[07-Dec-2025 14:29:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:29:25 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:29:30 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:29:30 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:29:37 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:29:37 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:29:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:29:40 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:30:13 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:30:13 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:30:16 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:30:16 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:33:06 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:33:06 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:33:09 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:33:09 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:34 UTC] PHP Warning:  Attempt to read property "query_var" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\taxonomy.php on line 4705
+[07-Dec-2025 14:33:45 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 74
+[07-Dec-2025 14:33:45 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-woocommerce-reviews\includes\updates.php on line 75
+[07-Dec-2025 14:34:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\seo-by-rank-math\includes\modules\analytics\class-email-reports.php on line 285
+[07-Dec-2025 14:37:22 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:37:22 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:37:38 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:37:38 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:38:34 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:38:34 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:38:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 14:38:53 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 14:53:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 14:53:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 14:53:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:30:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:36:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:39:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:41:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:43:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:44:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:47:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin-header.php(123): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(244): require_once('C:\\Users\\thanh\\...')
+#5 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:47:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:47:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin-header.php(123): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(244): require_once('C:\\Users\\thanh\\...')
+#5 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:49:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:50:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:50:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:50:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\templates\editor.php(9): do_action('admin_enqueue_s...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\helpers\templating.php(18): include('C:\\Users\\thanh\\...')
+#5 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\themes\flatsome\inc\builder\core\server\actions\editor.php(29): ux_builder_render('editor')
+#6 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): UxBuilder\Application->{closure}(Object(WP_Screen))
+#7 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#9 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\class-wp-screen.php(424): do_action('current_screen', Object(WP_Screen))
+#10 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\includes\screen.php(243): WP_Screen->set_current_screen()
+#11 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(217): set_current_screen()
+#12 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\post.php(12): require_once('C:\\Users\\thanh\\...')
+#13 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:50:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(341): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin-header.php(123): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-admin\admin.php(244): require_once('C:\\Users\\thanh\\...')
+#5 {main}
+  thrown in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 277
+[07-Dec-2025 15:51:10 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 15:51:10 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 15:51:31 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 15:51:31 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 15:51:36 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 15:51:36 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 15:52:59 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 15:52:59 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 15:53:21 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 15:53:21 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 15:53:33 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 74
+[07-Dec-2025 15:53:33 UTC] PHP Warning:  Attempt to read property "download_link" on bool in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-content\plugins\devvn-quick-buy\includes\updates.php on line 75
+[07-Dec-2025 15:53:35 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168
+[07-Dec-2025 15:53:35 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\thanh\Local Sites\noithatpaloma\app\public\wp-includes\class-wp-list-util.php on line 168

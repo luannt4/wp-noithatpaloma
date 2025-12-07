@@ -13,3 +13,9 @@ i.mce-i-icon {
 .image-bg-button{text-align: left!important; background-repeat: no-repeat!important;background-size: auto 100%!important; background-position: right!important;}
 div[aria-label="Add Shortcodes"]{border:1px solid #627f9a!important;}
 div[aria-label="Add Shortcodes"] > button > span{color:#627f9a!important;}
+table.wp-list-table .column-taxonomy-product_brand{width:auto}
+table.wp-list-table .column-price{width:13ch;font-weight: 600;}
+table.wp-list-table .column-date{width:13ch;}
+table.wp-list-table tr .column-product_tag {
+    width: 13ch !important;
+}

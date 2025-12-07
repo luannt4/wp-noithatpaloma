@@ -58,7 +58,7 @@ function shortcode_latest_from_blog($atts, $content = null, $tag = '' ) {
 
 		// div meta
 		'post_icon' => 'true',
-		'comments' => 'true',
+		'comments' => 'false',
 		'show_date' => 'badge', // badge, text
 		'badge_style' => '',
 		'show_category' => 'false',

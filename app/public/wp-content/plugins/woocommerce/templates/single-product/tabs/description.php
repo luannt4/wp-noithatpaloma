@@ -18,13 +18,13 @@
 defined( 'ABSPATH' ) || exit;
 
 global $post;
-$heading = apply_filters( 'woocommerce_product_description_heading', __( 'Nội Dung', 'woocommerce' ) );
+
+$heading = apply_filters( 'woocommerce_product_description_heading', __( 'Description', 'woocommerce' ) );
+
 ?>
 
 <?php if ( $heading ) : ?>
-    <h3 class="section-title-description">
-        <span class="section-title-main"><?php echo esc_html( $heading ); ?></span>
-    </h3>
+	<h2><?php echo esc_html( $heading ); ?></h2>
 <?php endif; ?>
 
 <?php the_content(); ?>

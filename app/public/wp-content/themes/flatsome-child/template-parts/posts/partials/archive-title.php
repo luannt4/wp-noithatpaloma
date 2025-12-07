@@ -1,7 +1,7 @@
 <header class="shop-page-title page-title">
 	<div class="page-title-inner flex-row container">
 	<div class="large-12 ">
-	<h1 class="page-title is-large ">
+	<h1 class="page-title is-large hidden ">
 		<?php
 
 			if ( is_category() ) :
