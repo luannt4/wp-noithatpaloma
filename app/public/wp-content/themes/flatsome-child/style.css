@@ -415,6 +415,9 @@ header #logo img {
 #sp-wp-carousel-free-id-4269.sp-wpcp-4269 .wpcp-single-item{
     border:none !important;
 }
+.wpcp-carousel-section .swiper-wrapper {
+    align-items: flex-start;
+}
 .wpcp-carousel-section .wcp-video-item a.wcp-light-box{
     position: relative;
     border-radius: 8px;
@@ -452,7 +455,8 @@ header #logo img {
         background: url(images/icon-video.svg);
         top: calc(50% - 32px);
         margin: 0 auto;
-        backdrop-filter: blur(3px);
+        backdrop-filter: blur(2px);
+        background-color: rgba(255, 255, 255, 0.3);
         &::before{
             display: none;
         }

@@ -1,0 +1,6 @@
+Dec 08 2025 14:23:56
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"C:\\Users\\thanh\\Local Sites\\noithatpaloma\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\functions.php","Line":447}
+
+Dec 08 2025 14:23:59
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\thanh\\Local Sites\\noithatpaloma\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
